@@ -1,0 +1,24 @@
+body {
+    margin-left: 45%;
+    margin-top: 400px;
+}
+
+button {
+    background-color: #4CAF50;
+    border: solid 4px #146917;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0px 5px #979797;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+button:active {
+    background-color: #3e8e41;
+}
